@@ -1,0 +1,9 @@
+## Interface: 80250
+## Title: Duel Book
+## Notes: Addon to track dueling vs players
+## Version: 0.1
+## SavedVariables: DuelBookDB
+## SavedVariablesPerCharacter: DuelBookDBPC
+
+
+DuelBook.lua
